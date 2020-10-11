@@ -1,0 +1,9 @@
+@import "~variables";
+
+.gray {
+  background-color: $gray-100;
+}
+
+.night .gray {
+  background-color: $gray-100--night;
+}
